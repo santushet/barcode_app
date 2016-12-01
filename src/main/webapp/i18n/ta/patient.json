@@ -1,0 +1,24 @@
+{
+    "bhushanApp": {
+        "patient" : {
+            "home": {
+                "title": "Patients",
+                "createLabel": "Patient-ஐ உருவாக்கு",
+                "createOrEditLabel": "Patient -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for Patient"
+            },
+            "created": "Patient புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Patient மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Patient நீக்கப்பட்டது, அடையாளம {{ param }}",
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Patient {{ id }}?"
+            },
+            "detail": {
+                "title": "Patient"
+            },
+            "name": "Name",
+            "address": "Address",
+            "barcode": "Barcode"
+        }
+    }
+}
